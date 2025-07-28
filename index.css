@@ -1,0 +1,12 @@
+#heading {
+    color: blue;
+    font-size: 24px;
+    text-align: center;
+}
+
+#parent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
